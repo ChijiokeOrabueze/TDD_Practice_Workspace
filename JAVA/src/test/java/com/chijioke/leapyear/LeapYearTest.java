@@ -11,7 +11,7 @@ class LeapYearTest {
 
         LeapYear leapYear = new LeapYear();
 
-        assertEquals(true, leapyear.check(1996));
+        assertEquals(true, leapYear.check(1996));
     }
 
 }
